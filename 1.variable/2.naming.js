@@ -1,0 +1,2 @@
+let audioBackground;
+let audioWind;
